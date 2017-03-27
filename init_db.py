@@ -88,6 +88,7 @@ conn.commit()
 
 # top_neighbors = items[1:20]
 # neighbors = [j[1] for j in top_neighbors]
+# print(neighbors)
 #
 # with open('tweets.json', 'w') as json_file:
 #     for m in range(19):
